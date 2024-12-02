@@ -18,6 +18,7 @@
 
 ### Technologies:
 
+<img height="50" style="background-color:white" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/postgresql/postgresql.png">
 <img height="50" style="background-color:white" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/oracle-database/oracle-database.png">
 
 <!--
