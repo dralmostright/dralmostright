@@ -19,7 +19,7 @@
 ### Technologies:
 
 <kbd><img height="50" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/postgresql/postgresql.png"> </kbd> 
-<img height="50" align="left" style="background-color:white" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/oracle-database/oracle-database.png">
+<kbd><img height="50" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/oracle-database/oracle-database.png"></kbd>
 
 <!--
 **dralmostright/dralmostright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
