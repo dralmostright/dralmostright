@@ -22,7 +22,7 @@
 <kbd><img height="50" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/oracle-database/oracle-database.png"></kbd>
 <kbd><img height="50" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/powershell/powershell.png"></kbd>
 <kbd><img height="50" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/python/python.png"></kbd>
-<kbd><img height="50" src="https://en.wikipedia.org/wiki/Shell_script#/media/File:FreeBSD_10_vi_RC_Firewall.png"></kbd>
+<kbd><img height="50" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/bash/bash.png"></kbd>
 
 <!--
 **dralmostright/dralmostright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
