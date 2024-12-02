@@ -18,7 +18,7 @@
 
 ### Technologies:
 
-<code><img height="50" style="background-color:white" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/oracle-database/oracle-database.png"></code>
+<img height="50" style="background-color:white" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/oracle-database/oracle-database.png">
 
 <!--
 **dralmostright/dralmostright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
