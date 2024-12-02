@@ -18,8 +18,8 @@
 
 ### Technologies:
 
-<img height="50" style="background-color:white" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/postgresql/postgresql.png">
-<img height="50" style="background-color:white" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/oracle-database/oracle-database.png">
+<img height="50" align="left" style="background-color:white" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/postgresql/postgresql.png">
+<img height="50" align="left" style="background-color:white" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/oracle-database/oracle-database.png">
 
 <!--
 **dralmostright/dralmostright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
