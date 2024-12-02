@@ -23,6 +23,8 @@
 <kbd><img height="50" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/powershell/powershell.png"></kbd>
 <kbd><img height="50" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/python/python.png"></kbd>
 <kbd><img height="50" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/bash/bash.png"></kbd>
+<kbd><img height="50" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/aws/aws.png"></kbd>
+<kbd><img height="50" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/docker/docker.png"></kbd>
 
 <!--
 **dralmostright/dralmostright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
