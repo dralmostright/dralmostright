@@ -25,10 +25,12 @@
 <kbd><img height="50" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/bash/bash.png"></kbd>
 <kbd><img height="50" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/aws/aws.png"></kbd>
 <kbd><img height="50" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/docker/docker.png"></kbd>
+<kbd><img height="50" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/javascript/javascript.png"></kbd>
 
 <!--
 **dralmostright/dralmostright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+https://github.com/github/explore/tree/main/topics/iot
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
